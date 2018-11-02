@@ -3,7 +3,11 @@ package exercise1;
 public class Exercise1 {
 	static Person createPerson(String name, int age) {
 		// Ajoutez les champs name et age à la classe Person.
+
 		// Créez un constructeur public permettant d'initialiser ces valeurs au moment de la construction.
+		public static void main( String[] args) {
+			System.out.println ( " Hello World " );
+		}
 		// Créez des getters publics pour lire ces valeurs une fois la classe construite.
 		return null;
 	}
